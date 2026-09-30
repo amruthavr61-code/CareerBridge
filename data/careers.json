@@ -1,0 +1,201 @@
+{
+  "Data Analyst": {
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Pandas",
+      "Power BI"
+    ],
+    "projects": [
+      "Sales Data Analysis Dashboard",
+      "Student Performance Analysis"
+    ],
+    "roadmap": [
+      "Learn Python for Data Analysis",
+      "Learn SQL",
+      "Learn Excel",
+      "Learn Statistics",
+      "Learn Pandas",
+      "Learn Power BI",
+      "Build a Data Analysis Project"
+    ]
+  },
+
+  "Machine Learning Engineer": {
+    "skills": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Statistics",
+      "Machine Learning",
+      "SQL",
+      "Git"
+    ],
+    "projects": [
+      "House Price Prediction",
+      "Student Performance Prediction"
+    ],
+    "roadmap": [
+      "Strengthen Python",
+      "Learn NumPy",
+      "Learn Pandas",
+      "Learn Statistics",
+      "Learn Machine Learning",
+      "Learn SQL",
+      "Learn Git",
+      "Build a Machine Learning Project"
+    ]
+  },
+
+  "Python Developer": {
+    "skills": [
+      "Python",
+      "OOP",
+      "SQL",
+      "Git",
+      "APIs",
+      "Django"
+    ],
+    "projects": [
+      "Student Management System",
+      "REST API Project"
+    ],
+    "roadmap": [
+      "Learn Advanced Python",
+      "Learn Object-Oriented Programming",
+      "Learn SQL",
+      "Learn Git",
+      "Learn REST APIs",
+      "Learn Django",
+      "Build a Python Web Application"
+    ]
+  },
+
+  "Full Stack Developer": {
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL",
+      "Git"
+    ],
+    "projects": [
+      "E-Commerce Website",
+      "College Management Portal"
+    ],
+    "roadmap": [
+      "Learn HTML",
+      "Learn CSS",
+      "Learn JavaScript",
+      "Learn React",
+      "Learn Node.js",
+      "Learn SQL",
+      "Learn Git",
+      "Build a Full Stack Project"
+    ]
+  },
+
+  "Cybersecurity Analyst": {
+    "skills": [
+      "Networking",
+      "Linux",
+      "Python",
+      "Cybersecurity",
+      "Cryptography",
+      "SQL",
+      "Git"
+    ],
+    "projects": [
+      "Network Security Monitor",
+      "Password Security Analyzer"
+    ],
+    "roadmap": [
+      "Learn Computer Networking",
+      "Learn Linux",
+      "Learn Python",
+      "Learn Cybersecurity Fundamentals",
+      "Learn Cryptography",
+      "Learn SQL",
+      "Practice Security Projects"
+    ]
+  },
+
+  "Cloud Engineer": {
+    "skills": [
+      "Linux",
+      "Networking",
+      "Python",
+      "AWS",
+      "Docker",
+      "Git",
+      "SQL"
+    ],
+    "projects": [
+      "Deploy a Web Application",
+      "Cloud-Based Student Portal"
+    ],
+    "roadmap": [
+      "Learn Linux",
+      "Learn Networking",
+      "Learn Python",
+      "Learn AWS",
+      "Learn Docker",
+      "Learn Git",
+      "Deploy a Cloud Project"
+    ]
+  },
+
+  "UI/UX Designer": {
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Design",
+      "Wireframing",
+      "Prototyping",
+      "User Research"
+    ],
+    "projects": [
+      "College App UI",
+      "Food Delivery App Prototype"
+    ],
+    "roadmap": [
+      "Learn UI Design",
+      "Learn UX Fundamentals",
+      "Learn Figma",
+      "Learn Wireframing",
+      "Learn Prototyping",
+      "Practice User Research",
+      "Build a UI/UX Portfolio"
+    ]
+  },
+
+  "Data Scientist": {
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "NumPy",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "projects": [
+      "Customer Churn Prediction",
+      "Stock Market Data Analysis"
+    ],
+    "roadmap": [
+      "Learn Python",
+      "Learn SQL",
+      "Learn Statistics",
+      "Learn NumPy",
+      "Learn Pandas",
+      "Learn Machine Learning",
+      "Learn Data Visualization",
+      "Build a Data Science Project"
+    ]
+  }
+}
